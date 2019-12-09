@@ -1,0 +1,28 @@
+0
+Name Company: dsa
+Name Drug: asd
+MFG: Thu Oct 11 00:00:00 ICT 10001
+EXP: Wed Sep 11 00:00:00 ICT 10002Quantity: 0
+Money: 30000000
+0
+Name Company: GTD
+Name Drug: Dinh
+MFG: 30/00/2000
+EXP: 31/00/2100Quantity: 
+0
+Money: 1000000
+0
+Name Company: GTD
+Name Drug: Dinh
+MFG: 11/00/2001
+EXP: 02/00/10001Quantity: 
+12
+Money: 10000000
+0
+Name Company: dinh
+Name Drug: hien
+MFG: 01/00/2019
+EXP: 02/00/2019
+Quantity: 
+12
+Money: 100.0
